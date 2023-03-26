@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\bin\Debug\net7.0\Task31.exe
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\bin\Debug\net7.0\Task31.deps.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\bin\Debug\net7.0\Task31.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\bin\Debug\net7.0\Task31.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\bin\Debug\net7.0\Task31.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\refint\Task31.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\Task31.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum5\Task31\obj\Debug\net7.0\ref\Task31.dll
